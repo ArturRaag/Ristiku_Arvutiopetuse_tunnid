@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  9 17:38:03 2021
-
-@author: artur
-"""
 
 tekst="Tere maailm!"
 print(tekst)
