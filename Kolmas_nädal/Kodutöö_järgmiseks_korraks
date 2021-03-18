@@ -1,0 +1,12 @@
+KODUNETÖÖ/ISESEISEV HARJUTUS:
+	1) Luua programm, mis küsib kasutajalt nime, vanust, millises klassis ja koolis ta õpib ning millega ta põhiliselt vabal ajal tegeleb.
+  (klass sisesta koos tähega, ning kool: "Ristiku põhikool".)
+  
+	2) Salvesta (muutujaks) ja väljasta järgmine tekst: 
+						"Meie peategelase nimi on [NIMI]. Ta on [VANUS] aastat vana, ning käib [KLASS] klassis. Samuti
+	   					 käib ta [KOOL]. Vabal ajal tegeleb [NIMI] põhiliselt [VABAAJA TEGEVUS]."
+               
+	3) Pärast teksti väljastamist, asendada Ristiku põhikoolis sõna "põhi" hoopis sõnaga "kesk" [st et lõpuks oleks meil Ristiku keskkool] 
+  ning vaheta klassi täht mõne muu tähega (näiteks 8.c asemel võiks olla 8.a vms).
+  
+	4) Väljasta uuendatud tekst.
