@@ -7,7 +7,7 @@ print(uus_tekst)
 teksti_pikkus=len(uus_tekst)
 print(teksti_pikkus)
 
-A_indeks=uus_tekst[5] # Väljastab 5ndal kohal oleva sümboli.
+A_indeks=uus_tekst[5] # Väljastab 5ndal kohal oleva sümboli. NB!!! Pythonis ja paljudes muudes keeltes, algab loendamine 0-st mitte 1-st!
 print(A_indeks)
 
 print(uus_tekst.index("A"))
