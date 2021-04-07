@@ -13,7 +13,13 @@ Vihjed:
 Väiksem või võrdne: "<=".
 2) Tingimuste kontrollimiseks kasuta "if" lauseid. Nt: "if pikkus >=180:" jne...
 3) Mõlema tingimuse kontrollimiseks tohib kasutada if-lausetes "and" funktsiooni.
-Näiteks: "if pikkus>180 and sugu=="Mees": " jne... See võtab mõlemad tingimused korraga arvesse.
+Näiteks: 
+```python
+if pikkus > 180 and sugu =="Mees":
+    print("tekst")
+```
+vms... See võtab mõlemad tingimused korraga arvesse.
+
 4) veendu ka, et programm töötaks hoolimata tähe suurusest. (st peab töötama kui sisestada nt MEES/Mees/mees).
 Selle jaoks soovitan kasutada "string".capitalize() funktsiooni.
 Samuti võiks ta ka töötada olukorras, kui kasutaja kogemata sisestab sõna ette või järgi mingid tühikud.
