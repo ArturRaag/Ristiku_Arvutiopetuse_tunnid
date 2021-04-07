@@ -1,11 +1,11 @@
-#Kodutöö järgmiseks korraks
+# Kodutöö järgmiseks korraks
 
 Kirjutada programm, mis küsib kasutajalt tema pikkust sentimeetrites kui ka tema sugu.
 
-Kui kasutaja on meestsoost ning pikkem kui näiteks 180cm, siis väljastada: "Kasutaja on meestsoost ja pikka kasvu.".
-Kui kasutaja on meestsoost ning lühem kui 180cm, siis väljastada: "Kasutaja on meestsoost ja lühemat kasvu.".
-Kui kasutaja on naissoost ning pikkem kui näiteks 165cm, siis väljastada: "Kasutaja on naissoost ja pikka kasvu."
-Kui kasutaja on naissoost ning lühem kui 165cm, siis väljastada: "Kasutaja on naissoost ja lühemat kasvu.".
+1. Kui kasutaja on meestsoost ning pikkem kui näiteks 180cm, siis väljastada: "Kasutaja on meestsoost ja pikka kasvu.".
+2. Kui kasutaja on meestsoost ning lühem kui 180cm, siis väljastada: "Kasutaja on meestsoost ja lühemat kasvu.".
+3. Kui kasutaja on naissoost ning pikkem kui näiteks 165cm, siis väljastada: "Kasutaja on naissoost ja pikka kasvu."
+4. Kui kasutaja on naissoost ning lühem kui 165cm, siis väljastada: "Kasutaja on naissoost ja lühemat kasvu.".
 
 Vihjed:
 
