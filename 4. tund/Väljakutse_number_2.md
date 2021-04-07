@@ -15,7 +15,7 @@ Väiksem või võrdne: "<=".
 3) Mõlema tingimuse kontrollimiseks tohib kasutada if-lausetes "and" funktsiooni.
 Näiteks: 
 ```python
-if pikkus > 180 and sugu =="Mees":
+if pikkus>180 and sugu=="Mees":
     print("tekst")
 ``` 
    vms... See võtab mõlemad tingimused korraga arvesse.
