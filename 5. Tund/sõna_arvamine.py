@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  7 08:24:19 2021
-
-@author: artur
-"""
-
 password="imelik"
 
 for i in range(10):
