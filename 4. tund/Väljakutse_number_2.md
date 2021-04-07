@@ -17,7 +17,8 @@ Näiteks:
 ```python
 if pikkus > 180 and sugu =="Mees":
     print("tekst")
-``` vms... See võtab mõlemad tingimused korraga arvesse.
+``` 
+   vms... See võtab mõlemad tingimused korraga arvesse.
 
 4) veendu ka, et programm töötaks hoolimata tähe suurusest. (st peab töötama kui sisestada nt MEES/Mees/mees).
 Selle jaoks soovitan kasutada "string".capitalize() funktsiooni.
