@@ -2,7 +2,7 @@
 ## Ülesande kirjeldus
 Luua programm, mis genereerib ühe juhusliku arvu.
 
-Seejärel paluda kasutajal arvu ära arvata.\\
+Seejärel paluda kasutajal arvu ära arvata.\n
 Kui arvatud arv ei klappi genereeritud arvuga, siis väljastada vastavad vihjed.
 
 Ehk, kui arvatud arv on väiksem või suurem kui genereeritud arv, siis väljastada vihjena "arv on suurem/arv on väiksem" vms.
