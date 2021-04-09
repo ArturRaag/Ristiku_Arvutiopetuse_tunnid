@@ -1,4 +1,4 @@
-# Arvu arvamise mäng
+# 1. Arvu arvamise mäng
 ## Ülesande kirjeldus
 Luua programm, mis genereerib ühe juhusliku arvu.
 Seejärel paluda kasutajal arvu ära arvata.
