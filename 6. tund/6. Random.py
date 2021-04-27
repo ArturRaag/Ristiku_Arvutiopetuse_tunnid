@@ -1,5 +1,3 @@
-
-
 import numpy as np
 
 juhuslik_arv = np.random.randint(10)
